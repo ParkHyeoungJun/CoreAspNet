@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="E:/Project/CoreAspNet/CoreAspNet.Models/CoreAspNet.Models.csproj" />
+  <Project Path="E:/Project/CoreAspNet/CoreAspNet.SqlServer/CoreAspNet.SqlServer.sqlproj" Id="0b211e7d-709f-49bf-acec-0bcf5480848f">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="E:/Project/CoreAspNet/CoreAspNet/CoreAspNet.csproj" Id="c1380683-8df2-4340-9b5b-7f4bcd5e32ab" />
+</Solution>
